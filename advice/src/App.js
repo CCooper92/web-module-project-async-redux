@@ -16,7 +16,7 @@ function App() {
   );
 }
 const PageStyle = styled.div`
-background-color:#B8E1FF;
+background-image:linear-gradient(#E8AEB7, #B8E1FF);
 height: 100vh;
 max-width: 100%;
   display: flex;
